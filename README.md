@@ -14,7 +14,7 @@ ke dalam aplikasi web interaktif berbasis Streamlit.
 
 ## Latar Belakang
 
-Sulawesi Tenggara termasuk wilayah tropis dengan curah hujan tinggi dan tidak menentu. Perubahan iklim membuat pola hujan makin sulit diprediksi, sehingga petani, nelayan, dan masyarakat umum sering salah mengambil keputusan — mulai dari waktu tanam, waktu melaut, hingga kesiapan menghadapi cuaca ekstrem.
+Curah hujan di Sulawesi Tenggara dipengaruhi monsun dan topografi, dan puncak hujannya bisa berintensitas sangat tinggi serta bergeser akibat anomali atmosfer. Pola yang tidak menentu ini menyulitkan masyarakat memperkirakan hujan dan bersiap menghadapi cuaca ekstrem(Satria WD & Qothrunada, 2023).
 
 Proyek ini mendukung **SDGS 13: Penanganan Perubahan Iklim**, ) Model ini bukan solusi langsung untuk menghentikan perubahan iklim, melainkan alat bantu kesiapsiagaan berbasis data.
 
